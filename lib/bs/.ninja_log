@@ -1,0 +1,7 @@
+# ninja log v5
+# start_time end_time mtime command hash
+0	18	1595333117649925822	src/ReactErrorBoundary.resast	e6003e78bc33b5db
+18	27	1595333117660403342	src/ReactErrorBoundary.d	5e7ee0637c0ec6e0
+27	48	1595333117680167853	src/ReactErrorBoundary.cmj	71a2557e7f5da2c
+27	48	1595333117680167853	src/ReactErrorBoundary.cmi	71a2557e7f5da2c
+27	48	1595333117680167853	/Users/jonathansiebern/git/Open_Source/bs-react-error-boundary/src/ReactErrorBoundary.bs.js	71a2557e7f5da2c
